@@ -1,1 +1,7 @@
 com\smartcampus\notification\NotificationServiceApplication.class
+com\smartcampus\notification\config\RabbitMQConfig.class
+com\smartcampus\notification\controller\NotificationController.class
+com\smartcampus\notification\repository\NotificationRepository.class
+com\smartcampus\notification\service\NotificationService.class
+com\smartcampus\notification\listener\NotificationListener.class
+com\smartcampus\notification\entity\Notification.class

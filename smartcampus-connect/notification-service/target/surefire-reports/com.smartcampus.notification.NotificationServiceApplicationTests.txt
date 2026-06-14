@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.smartcampus.notification.NotificationServiceApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.745 s -- in com.smartcampus.notification.NotificationServiceApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.944 s -- in com.smartcampus.notification.NotificationServiceApplicationTests
