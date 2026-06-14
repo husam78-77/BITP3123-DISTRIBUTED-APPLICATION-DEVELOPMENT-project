@@ -1,0 +1,5 @@
+com\smartcampus\studentprofile\controller\StudentController.class
+com\smartcampus\studentprofile\entity\Student.class
+com\smartcampus\studentprofile\repository\StudentRepository.class
+com\smartcampus\studentprofile\service\StudentService.class
+com\smartcampus\studentprofile\StudentProfileServiceApplication.class
